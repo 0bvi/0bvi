@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0bvi
 - 👀 I’m interested in SE
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate with any learning community
+- 💞️ I’m looking to collaborate with some coding partner
 - 📫 How to reach me https://github.com/0bvi/0bvi.git
 
 <!---
